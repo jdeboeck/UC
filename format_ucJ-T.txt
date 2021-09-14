@@ -1,0 +1,9 @@
+PM[1] Pm[1] UT[1] DT[1] initState[1]       # Data from table 1
+PM[2] Pm[2] UT[2] DT[2] initState[2]
+...
+PM[J] Pm[J] UT[J] DT[J] initState[J]
+a[1] b[1] c[1] hc[1] cc[1] tCold[1]        # Data from table 2
+a[2] b[2] c[2] hc[2] cc[2] tCold[2]
+...
+a[J] b[J] c[J] hc[J] cc[J] tCold[J]        
+D[1] D[2] D[3] ...  ... D[T]               # Hourly demand
